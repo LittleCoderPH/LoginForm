@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\bin\Debug\net9.0-windows\SchoolAdmin.exe
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\bin\Debug\net9.0-windows\SchoolAdmin.deps.json
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\bin\Debug\net9.0-windows\SchoolAdmin.runtimeconfig.json
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\bin\Debug\net9.0-windows\SchoolAdmin.dll
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\bin\Debug\net9.0-windows\SchoolAdmin.pdb
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\obj\Debug\net9.0-windows\SchoolAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\obj\Debug\net9.0-windows\SchoolAdmin.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\obj\Debug\net9.0-windows\SchoolAdmin.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\obj\Debug\net9.0-windows\SchoolAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\obj\Debug\net9.0-windows\SchoolAdmin.dll
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\obj\Debug\net9.0-windows\refint\SchoolAdmin.dll
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\obj\Debug\net9.0-windows\SchoolAdmin.pdb
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\obj\Debug\net9.0-windows\SchoolAdmin.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Project1\SchoolAdmin\obj\Debug\net9.0-windows\ref\SchoolAdmin.dll
